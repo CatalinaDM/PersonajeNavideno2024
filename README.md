@@ -15,7 +15,7 @@ El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (de
 |HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
 |LEDs|<img width="100" src="https://github.com/user-attachments/assets/0d7f633c-1e91-42bd-ad1e-6f5d9c72771e"/>|1|23
 |RGB LEDs|<img width="100" src="https://github.com/user-attachments/assets/ec5d1eb2-b3ba-4ece-90c2-53470c24e91d" />|20|0.5|
-
+||<img width="100" src="https://madenginer.com/wp-content/uploads/2023/07/Mengenal-Motor-Servo.jpeg"/>|Cantidad|Costo|
 ## Software a utilizar
 |Software|Versión|
 |--|--|
