@@ -44,10 +44,10 @@ Llevara un buzzer en la parte de adentro de la cabeza y leds en la parte de su b
 
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+https://wokwi.com/projects/409794071066159105
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+<img src="https://drive.google.com/drive/u/0/home"/>
 
 ## Capturas de Evaluaciones de Curso de C
 ##Evaluacion 1
